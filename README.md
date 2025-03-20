@@ -1,4 +1,4 @@
-<h1 aling="center"> ## 👋 ¡Hola! Soy Mati </h1>
+<h1 align="center"> #👋 ¡Hola! Soy Mati </h1>
 ### 🚀 Sobre mí
 
 - 💻 Desarrollador PHP con experiencia en MVC  
