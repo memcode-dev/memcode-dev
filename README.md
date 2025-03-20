@@ -1,16 +1,23 @@
-## Hi there 👋
+## 👋 ¡Hola! Soy [Tu Nombre]
 
-<!--
-**memcode-dev/memcode-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Sobre mí
 
-Here are some ideas to get you started:
+- 💻 Desarrollador PHP con experiencia en MVC
+- 🔐 Implementando seguridad con Paragonie Anti-CSRF
+- 🏋️ Creando un sistema de turnos para gimnasios
+- 🛠 Amante de la optimización y buenas prácticas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 Tecnologías y herramientas
+
+
+
+
+
+
+
+### 📈 Estadísticas
+
+
+
+### 📫 Contáctame
+
