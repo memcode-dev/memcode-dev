@@ -31,14 +31,6 @@
 
 ---
 
-### 📈 Estadísticas  
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=memcode-dev&show_icons=true&theme=radical" width="48%"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=memcode-dev&layout=compact&theme=radical" width="48%"/>
-</p>
-
----
-
 ### 📫 Contáctame  
 
 <p align="center">
