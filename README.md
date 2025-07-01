@@ -9,9 +9,7 @@
 
 ---
 
-### 💡 Tecnologías y herramientas  
-
-#### 🔹 Lenguajes y Frameworks  
+#### 🔹 Lenguajes y Tecnologías  
 <p align="center">
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -44,13 +42,7 @@
 ### 📫 Contáctame  
 
 <p align="center">
-    <a href="https://github.com/memcode-dev" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-    </a>
     <a href="https://www.linkedin.com/in/memcode-dev/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-    </a>
-    <a href="https://memcode.dev" target="_blank">
-        <img src="https://img.shields.io/badge/Portfolio-%23121011.svg?style=for-the-badge&logo=firefox&logoColor=white"/>
     </a>
 </p>
